@@ -114,7 +114,6 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle"         // 猜单词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"          // 月幕galgame
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/zaobao"         // 早报
-
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili_push"  // b站推送
 
